@@ -10,8 +10,8 @@
 
   <h2 align="center">Languages and Tools</h2>
   <div align="center">
-    <a align="center" href="https://skillicons.dev/icons?i=javascript,html,css,figma,firebase,git,github,nodejs,photoshop,replit,vercel,vscode&theme=light" target="_blank">
-      <img align="center" src="https://skillicons.dev/icons?i=javascript,html,css,figma,firebase,git,github,nodejs,photoshop,replit,vercel,vscode&theme=light" alt="My Skills">
+    <a align="center" href="https://skillicons.dev/icons?i=javascript,html,css,figma,firebase,git,github,nodejs,photoshop,lightroom,replit,vercel,vscode&theme=light" target="_blank">
+      <img align="center" src="https://skillicons.dev/icons?i=javascript,html,css,figma,firebase,git,github,nodejs,photoshop,lightroom,replit,vercel,vscode&theme=light" alt="My Skills">
     </a>
   </div>
   <hr>
