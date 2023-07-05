@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="https://github.com/JaviGandarillas/JaviGandarillas/assets/129618844/fcbcd4e3-ac37-4889-81dc-a9af6de25b93" alt="" style="max-width: 100%;">
+  <img src="https://github.com/JaviGandarillas/JaviGandarillas/assets/129618844/92d53dbd-ec53-4763-b6d7-3a6359bbdba2" alt="" style="max-width: 100%;">
 </div>
 <div>
     <h4>Hola! 👋 My name is Javi, and I'm a Front-End Developer searching for exciting opportunities in the technology field.</h4>
